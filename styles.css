@@ -1,0 +1,41 @@
+body {
+    margin: 0%;
+}
+
+.header {
+    background:gray;
+    padding:    20px;
+
+        }
+.main {
+    background: lightgray;
+    padding: 20px;
+    font-size: 20px;
+}
+.footer {
+    background: gray;
+    padding:  20px 10px;
+}
+
+.header {
+    margin: 20px 0;
+    font-size: 20px;
+}
+.header-nav a{
+    margin: 0 10px;
+    background-color: lightgreen;
+}
+
+        
+        h2 {
+            color: red;
+        }
+        a {
+            color: blue;
+        }
+        a:hover {
+            color: green;
+        }
+        h1 {
+            color: red;
+        }
